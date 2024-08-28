@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "name": "分类 1",
+            "images": [
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png"
+            ]
+        },
+        {
+            "name": "分类 2",
+            "images": [
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png"
+            ]
+        },
+        {
+            "name": "分类 3",
+            "images": [
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+                "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png"
+            ]
+        }
+    ],
+    "ads": {
+        "top": "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png",
+        "bottom": "https://gitee.com/z5pyx55cg5ri4/img/raw/master/img/d83ca813-7070-4d86-9e5a-ecf777ff2447-2024-8-2816:58:25.png"
+    }
+}
